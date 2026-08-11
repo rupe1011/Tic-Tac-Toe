@@ -1,0 +1,5 @@
+function Gameboard() {
+
+    const board = ["", "", "", "", "", "", "", "", ""];
+
+}
